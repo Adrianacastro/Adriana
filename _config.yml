@@ -4,5 +4,5 @@ include: ["_pages"]
 
 author:
   name: "Ocean"
-  avatar: "/assests/profile.jpg"
+  avatar: "/ocean.jpg"
   Bio: "Life in the Ocean"
