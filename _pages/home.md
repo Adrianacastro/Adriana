@@ -4,4 +4,3 @@ permalink: /
 ---
 
 # Hello, ChickTech!
-
